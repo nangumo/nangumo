@@ -23,15 +23,16 @@
   - TeraTerm
 
 ### 実務経験なし
-実務経験はないが、個人で学習しており、ある程度知識があるものになります。
+実務経験はないが、個人で学習しており、ある程度知識があるもの
 - 言語
-  - Python3
+  - Python
   - TypeScript
   - Dart
   - Java
   - Go
   - C#
   - C++
+  - ruby
 - フレームワーク
   - Django(django rest framework)
   - flask
@@ -39,8 +40,11 @@
   - next.js
   - flutter
   - spring boot
+  - vue.js
 - データベース
   - SQLite3
 - その他
   - material ui
   - Drift
+  - chakra ui
+  - Thymeleaf
