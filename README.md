@@ -53,3 +53,5 @@
   - Drift
   - chakra ui
   - bootstrap
+  - three.js
+  - firebase
