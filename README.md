@@ -7,12 +7,14 @@
   - JavaScript
   - HTML
   - CSS
+  - Java
 - フレームワーク
   - Laravel
-  - jQuery
+  - spring boot
 - データベース
   - Mysql
   - PostgreSQL
+  - Oracle
 - その他
   - Docker
   - xampp
@@ -21,6 +23,11 @@
   - sourcetree
   - Eloquent
   - TeraTerm
+  - Mybatis
+  - Thymeleaf
+  - nginx
+  - apache
+  - jQuery
 
 ### 実務経験なし
 実務経験はないが、個人で学習しており、ある程度知識があるもの
@@ -28,7 +35,6 @@
   - Python
   - TypeScript
   - Dart
-  - Java
   - Go
   - C#
   - C++
@@ -39,7 +45,6 @@
   - react
   - next.js
   - flutter
-  - spring boot
   - vue.js
 - データベース
   - SQLite3
@@ -47,4 +52,4 @@
   - material ui
   - Drift
   - chakra ui
-  - Thymeleaf
+  - bootstrap
