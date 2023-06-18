@@ -1,21 +1,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ri-regen&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
-### 実務経験あり
-- 言語
+### have work experience
+- language
   - PHP
   - SQL
   - JavaScript
   - HTML
   - CSS
   - Java
-- フレームワーク
+- framework
   - Laravel
   - spring boot
-- データベース
+- database
   - Mysql
   - PostgreSQL
   - Oracle
-- その他
+- other
   - Docker
   - xampp
   - git
@@ -29,9 +29,9 @@
   - apache
   - jQuery
 
-### 実務経験なし
-実務経験はないが、個人で学習しており、ある程度知識があるもの
-- 言語
+### no work experience
+they have no work experience but I have studies on my own and have some knowledge
+- language
   - Python
   - TypeScript
   - Dart
@@ -39,16 +39,16 @@
   - C#
   - C++
   - ruby
-- フレームワーク
+- framework
   - Django(django rest framework)
   - flask
   - react
   - next.js
   - flutter
   - vue.js
-- データベース
+- database
   - SQLite3
-- その他
+- other
   - material ui
   - Drift
   - chakra ui
