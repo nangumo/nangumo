@@ -49,9 +49,10 @@ they have no work experience but I have studies on my own and have some knowledg
 - database
   - SQLite3
 - other
-  - material ui
+  - material ui（emotion）
   - Drift
   - chakra ui
   - bootstrap
   - three.js
   - firebase
+  - Tailwind
